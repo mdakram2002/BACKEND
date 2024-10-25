@@ -19,14 +19,14 @@ A compilation of the resources, tutorials, and articles I've found helpful along
 - Google Search
 
 # Goals:
-Master core backend technologies like Node.js, Express, and databases.
-Develop efficient, scalable, and maintainable code.
-Understand and implement best practices in backend development.
+- Master core backend technologies like Node.js, Express, and databases.
+- Develop efficient, scalable, and maintainable code.
+- Understand and implement best practices in backend development.
 
 # Feedback:
 Your feedback, suggestions, and contributions are highly appreciated. Feel free to explore, critique, and share your insights. Let's learn and grow together!
 
 # Contecta me:
-Email: mdakram12022002@gmail.com
-LinkedIn: https://www.linkedin.com/in/mdakram2002
-Portfolio: https://myportfolioakram.netlify.app
+- Email: mdakram12022002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mdakram2002
++ Portfolio: https://myportfolioakram.netlify.app
