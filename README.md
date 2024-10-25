@@ -12,11 +12,11 @@ My solutions to different coding challenges and problems, including explanations
 
 # Learning Resources: 
 A compilation of the resources, tutorials, and articles I've found helpful along the way.
-.FreeCodeCamp
-.YouTube
-.GeekforGeek
-.LinkedIn
-.Google Search
+- FreeCodeCamp
+- YouTube
+- GeekforGeek
+- LinkedIn
+- Google Search
 
 # Goals:
 Master core backend technologies like Node.js, Express, and databases.
