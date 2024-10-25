@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository! As I embark on my journey to becoming a backend developer, this space will serve as a collection of my learning progress, projects, and code experiments.
 
-# What You'll Find Here
+# What You'll Find Here:
 # Projects: 
 - Various backend projects I've been working on, showcasing my skills and learning process.
 - Coming soon
