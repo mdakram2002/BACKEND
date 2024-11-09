@@ -5,8 +5,9 @@ Welcome to my GitHub repository! As I embark on my journey to becoming a backend
 # What You'll Find Here:
 # Projects: 
 - Various backend projects I've been working on, showcasing my skills and learning process.
-- Coming soon
-
+- To Do App
+- Blogs App
+  
 # Code Solutions: 
 - My solutions to different coding challenges and problems, including explanations and comments.
 
