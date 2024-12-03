@@ -3,15 +3,16 @@
 Welcome to my GitHub repository! As I embark on my journey to becoming a backend developer, this space will serve as a collection of my learning progress, projects, and code experiments.
 
 # What You'll Find Here:
-# Projects: 
+# Projects:
 - Various backend projects I've been working on, showcasing my skills and learning process.
 - To Do App
 - Blogs App
-  
-# Code Solutions: 
+- Auth_Authuz
+
+# Code Solutions:
 - My solutions to different coding challenges and problems, including explanations and comments.
 
-# Learning Resources: 
+# Learning Resources:
 A compilation of the resources, tutorials, and articles I've found helpful along the way.
 - FreeCodeCamp
 - YouTube
